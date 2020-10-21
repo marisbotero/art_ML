@@ -1,2 +1,2 @@
-# art_ML
-Machine Learnig + Art
+# Machine Learning + Art 
+💙
