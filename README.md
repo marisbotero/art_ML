@@ -1,2 +1,2 @@
 # Machine Learning + Art 
-## 💙🧠+🎨
+## 🧠+🎨
